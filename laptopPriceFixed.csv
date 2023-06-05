@@ -199,7 +199,7 @@ acer,Intel,Core i5,Not Available,8,DDR5,0,512,Windows,32-bit,4,Casual,No warrant
 acer,Intel,Core i5,Not Available,8,LPDDR4,0,512,Windows,32-bit,0,Casual,1 year,No,No,119990,4,1,1
 acer,Intel,Core i5,10th,8,LPDDR4,0,512,DOS,32-bit,0,Casual,No warranty,No,No,94190,4,31,6
 ASUS,Intel,Core i5,10th,8,LPDDR4,0,512,DOS,32-bit,4,Casual,No warranty,No,No,106167,4,1881,241
-DELL,Intel,Core i5,10th,8,LPDDR4,0,512,DOS,32-bit,4,Casual,1 year,No,No,68090,1 star,23,4
+DELL,Intel,Core i5,10th,8,LPDDR4,0,512,DOS,32-bit,4,Casual,1 year,No,No,68090,1,23,4
 DELL,Intel,Core i5,10th,8,LPDDR4,0,512,DOS,32-bit,0,ThinNlight,1 year,No,No,139990,3,0,0
 HP,Intel,Core i5,10th,8,LPDDR4,0,512,DOS,32-bit,0,ThinNlight,No warranty,No,No,55990,4,818,109
 HP,Intel,Core i5,10th,8,LPDDR4,0,512,DOS,32-bit,4,Casual,No warranty,No,No,102551,3,0,0
@@ -508,7 +508,7 @@ MSI,Intel,Core i7,11th,16,DDR4,512,0,Windows,64-bit,4,Casual,No warranty,No,No,8
 MSI,Intel,Core i7,11th,16,LPDDR4X,512,0,Windows,64-bit,0,Casual,1 year,No,No,89990,3,0,0
 HP,Intel,Core i7,10th,16,LPDDR3,512,0,Windows,64-bit,0,Casual,1 year,Yes,Yes,239759,3,0,0
 ASUS,Intel,Core i7,11th,16,DDR4,512,0,Windows,64-bit,2,Casual,1 year,No,Yes,78990,4,35,4
-DELL,Intel,Core i7,8th,16,DDR3,512,0,Windows,64-bit,0,ThinNlight,1 year,No,Yes,121890,1 star,3,0
+DELL,Intel,Core i7,8th,16,DDR3,512,0,Windows,64-bit,0,ThinNlight,1 year,No,Yes,121890,1,3,0
 ASUS,Intel,Core i7,8th,16,LPDDR3,512,0,Windows,64-bit,0,ThinNlight,1 year,No,No,85990,4,18,0
 MSI,Intel,Core i7,11th,16,DDR4,512,0,Windows,64-bit,4,Casual,2 years,No,No,94990,3,0,0
 HP,Intel,Core i7,11th,16,DDR4,512,0,Windows,64-bit,4,Gaming,1 year,No,Yes,92000,4,8,1
