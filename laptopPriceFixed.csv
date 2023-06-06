@@ -1,4 +1,4 @@
-brand,processor_brand,processor_name,processor_gnrtn,ram_,ram_type,ssd,hdd,os,os_bit,graphic_card_,weight,warranty,Touchscreen,msoffice,Price,rating,Number of Ratings,Number of Reviews
+brand,processor_brand,processor_name,processor_gnrtn,ram_,ram_type,ssd,hdd,os,os_bit,graphic_card_,weight,warranty,Touchscreen,msoffice,Price,rating,NumberofRatings,NumberofReviews
 ASUS,Intel,Core i3,10th,4,DDR4,0,1024,Windows,64-bit,0,Casual,No warranty,No,No,34649,2,3,0
 Lenovo,Intel,Core i3,10th,4,DDR4,0,1024,Windows,64-bit,0,Casual,No warranty,No,No,38999,3,65,5
 Lenovo,Intel,Core i3,10th,4,DDR4,0,1024,Windows,64-bit,0,Casual,No warranty,No,No,39999,3,8,1
