@@ -8,7 +8,7 @@ Presented by The Chosen
 
 ## Notebooks to use during presentation
 Download all these dbc files and upload them to your Databricks Community Edition. We'll work on them during our presentation.
-- [Regression Presentation](/CompletedNotebooks/CHANGETHIS.dbc)
+- [Regression Presentation](/Notebooks/Regression - Student.dbc)
 
 ## Notebooks with solutions
 These notebooks are the completed version of the notebooks above. Please, only refer to them after you've put enough effort to complete the exercises present in the notebooks to use during presentation.
