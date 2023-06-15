@@ -9,6 +9,16 @@
 5. Make sure that a user can use your template repo to see example scripts and have a standardized environment.
 6. Provide any additional files needed in the subfolders of the repository.
 
+## Slides
+- [Presentation Slides](PresentationSlides.PDF)
+
+
+## Notebooks to use during presentation
+- [Regression - Student](/CompletedNotebooks/Regression - Student.dbc)
+
+## Notebooks with solutions
+- [Regression](/CompletedNotebooks/Regression.dbc)
+
 ### Goals
 
 - Leave the participants with working examples.
