@@ -4,6 +4,8 @@ Presented by The Chosen
 ## Slides
 - [Presentation Slides](/PresentationSlides.pdf)
 
+- https://esther-tang-zeon.github.io/guide_MLLib/#1
+
 ## Notebooks to use during presentation
 Download all these dbc files and upload them to your Databricks Community Edition. We'll work on them during our presentation.
 - [Regression Presentation](/CompletedNotebooks/CHANGETHIS.dbc)
