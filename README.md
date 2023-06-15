@@ -15,7 +15,7 @@ These notebooks are the completed version of the notebooks above. Please, only r
 - [Regression](/CompletedNotebooks/Regression.dbc)
 
 ## Sources
-Refer to these sources to learn more about MLlib and sklearn:
+Refer to these sources to learn more about MLlib and sklearn (Sources Also Cited in Notebooks):
 - [Tuning the hyper-parameters of an estimator in sklearn](https://scikit-learn.org/stable/modules/grid_search.html)
 
 
