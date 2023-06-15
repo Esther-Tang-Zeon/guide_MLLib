@@ -2,19 +2,19 @@
 Presented by The Chosen
 
 ## Slides
-[Presentation Slides](/PresentationSlides.pdf)
+- [Presentation Slides](/PresentationSlides.pdf)
 
 ## Notebooks to use during presentation
-Download all these dbc files and upload them to your Databricks Community Edition. We'll work on them during our presentation.
-[Regression Presentation](/CompletedNotebooks/CHANGETHIS.dbc)
+Download all these dbc files and upload them to your Databricks Community Edition. We'll work on them during our presentation.\
+- [Regression Presentation](/CompletedNotebooks/CHANGETHIS.dbc)
 
 ## Notebooks with solutions
-These notebooks are the completed version of the notebooks above. Please, only refer to them after you've put enough effort to complete the exercises present in the notebooks to use during presentation.
-[Regression](/CompletedNotebooks/Regression.dbc)
+These notebooks are the completed version of the notebooks above. Please, only refer to them after you've put enough effort to complete the exercises present in the notebooks to use during presentation.\
+- [Regression](/CompletedNotebooks/Regression.dbc)
 
 ## Sources
-Refer to these sources to learn more about MLlib and sklearn:
-[Tuning the hyper-parameters of an estimator in sklearn](https://scikit-learn.org/stable/modules/grid_search.html)
+Refer to these sources to learn more about MLlib and sklearn:\
+- [Tuning the hyper-parameters of an estimator in sklearn](https://scikit-learn.org/stable/modules/grid_search.html)
 
 
 ## Suggestions
