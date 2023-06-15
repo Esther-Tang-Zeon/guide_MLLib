@@ -15,7 +15,7 @@
 ## Notebooks to use during presentation
 - [Regression Presentation](/CompletedNotebooks/CHANGETHIS.dbc)
 
-## Notebooks with solutions
+## Notebooks with solutions (use after you've put enough effort)
 - [Regression](/CompletedNotebooks/Regression.dbc)
 
 ### Goals
