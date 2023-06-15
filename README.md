@@ -1,3 +1,19 @@
+# ML with Databricks: MLlib and sklearn
+Presented by The Chosen
+
+## Slides
+[Presentation Slides](/PresentationSlides.pdf)
+
+## Notebooks to use during presentation
+[Regression Presentation](/CompletedNotebooks/CHANGETHIS.dbc)
+
+## Notebooks with solutions (use after you've put enough effort)
+[Regression](/CompletedNotebooks/Regression.dbc)
+
+## Sources
+[Tuning the hyper-parameters of an estimator in sklearn](https://scikit-learn.org/stable/modules/grid_search.html)
+
+
 ## Suggestions
 
 1. Use this template repo to create your training repo as _guide\_[topic]_
@@ -8,15 +24,6 @@
     - Use GitHub Pages: `Settings > Pages`. Set source `main` and `\(root)`.
 5. Make sure that a user can use your template repo to see example scripts and have a standardized environment.
 6. Provide any additional files needed in the subfolders of the repository.
-
-## Slides
-- [Presentation Slides](/PresentationSlides.pdf)
-
-## Notebooks to use during presentation
-- [Regression Presentation](/CompletedNotebooks/CHANGETHIS.dbc)
-
-## Notebooks with solutions (use after you've put enough effort)
-- [Regression](/CompletedNotebooks/Regression.dbc)
 
 ### Goals
 
