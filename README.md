@@ -18,6 +18,7 @@ These notebooks are the completed version of the notebooks above. Please, only r
 
 ## Sources
 Refer to these sources to learn more about MLlib and sklearn (Sources Also Cited in Notebooks):
+- [Data Used in Notebooks](https://www.kaggle.com/datasets/anubhavgoyal10/laptop-prices-dataset)
 - [Tuning the hyper-parameters of an estimator in sklearn](https://scikit-learn.org/stable/modules/grid_search.html)
 - [What is Regression](https://www.seldon.io/machine-learning-regression-explained#:~:text=Machine%20Learning%20Regression%20is%20a,used%20to%20predict%20continuous%20outcomes.)
 - [MLlib Regression Algorithms](https://spark.apache.org/docs/latest/ml-classification-regression.html#regression)
