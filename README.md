@@ -10,7 +10,7 @@
 6. Provide any additional files needed in the subfolders of the repository.
 
 ## Slides
-- [Presentation Slides](PresentationSlides.PDF)
+- [Presentation Slides](/PresentationSlides.pdf)
 
 
 ## Notebooks to use during presentation
