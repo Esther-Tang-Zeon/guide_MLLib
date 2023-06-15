@@ -6,8 +6,6 @@ Presented by The Chosen
 
 
 ## Slides
-- [Presentation Slides](/PresentationSlides.pdf)
-
 - https://esther-tang-zeon.github.io/guide_MLLib/#1
 
 ## Notebooks to use during presentation
