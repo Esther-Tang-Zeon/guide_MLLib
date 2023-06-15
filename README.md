@@ -12,9 +12,8 @@
 ## Slides
 - [Presentation Slides](/PresentationSlides.pdf)
 
-
 ## Notebooks to use during presentation
-- [Regression - Student](/CompletedNotebooks/Regression - Student.dbc)
+- [Regression Presentation](/CompletedNotebooks/CHANGETHIS.dbc)
 
 ## Notebooks with solutions
 - [Regression](/CompletedNotebooks/Regression.dbc)
