@@ -16,6 +16,10 @@ These notebooks are the completed version of the notebooks above. Please, only r
 - [Classification](/CompletedNotebooks/Classification.dbc)
 - [Regression](/CompletedNotebooks/Regression.dbc)
 
+  ## Try it Yourself
+  After the presentation if you want to try using MLlib for yourself use this notebook.
+  [TryItYorself](https://github.com/Esther-Tang-Zeon/guide_MLLib/blob/main/Notebooks/PracticeYourself.dbc)
+
 ## Sources
 Refer to these sources to learn more about MLlib and sklearn (Sources Also Cited in Notebooks):
 - [Data Used in Notebooks](https://www.kaggle.com/datasets/anubhavgoyal10/laptop-prices-dataset)
