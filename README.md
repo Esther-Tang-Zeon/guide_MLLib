@@ -10,7 +10,7 @@ Presented by The Chosen
 
 ## Notebooks to use during presentation
 Download all these dbc files and upload them to your Databricks Community Edition. We'll work on them during our presentation.
-- [Classification](/Notebooks/ClassificationStudent.dbc)
+- [Classification](/Notebooks/ClassificationStudents.dbc)
 - [Regression](/Notebooks/RegressionStudent.dbc)
 
 ## Notebooks with solutions
